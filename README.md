@@ -1,1 +1,2 @@
-# hello-world
+hello everyone.
+i am here to develop something.
